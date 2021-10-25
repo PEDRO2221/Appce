@@ -1,0 +1,7 @@
+{
+  "name": "Appce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
