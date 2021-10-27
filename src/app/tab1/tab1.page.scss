@@ -1,0 +1,34 @@
+ion-header{
+    --background: #ffffff;
+    ion-toolbar{
+        --background: #ffffff;
+    }
+}
+ion-button{
+    --ion-background-color: #144f7f;
+}
+
+span{
+    color: black;
+}
+ion-content{
+    div{
+        ion-item {
+            --box-shadow:none;
+        }
+    }
+    --ion-background-color:#ffffff;
+    p.title {
+        FONT-SIZE: 28px;
+        COLOR: #0844a1;
+    }
+    img {
+        border-radius: 20px;
+        height: 90px;
+        width: 100%;
+    }
+    ion-searchbar{
+        color: black;
+    }
+    
+}
