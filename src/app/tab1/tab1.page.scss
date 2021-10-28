@@ -25,10 +25,13 @@ ion-content{
     img {
         border-radius: 20px;
         height: 90px;
-        width: 100%;
+        width:90px;
     }
     ion-searchbar{
         color: black;
+        border-style: solid;
+        border-radius: 14px;
+        border-color: #e5e3e3;
     }
     
 }

@@ -1,0 +1,32 @@
+ion-header{
+    --background: #ffffff;
+    ion-toolbar{
+        --background: #ffffff;
+    }
+}
+ion-content{
+    --ion-background-color:#ffffff;
+    div{
+     
+        img {
+            border-radius: 20px;
+            height: 90px;
+            width: 100%;
+        }
+        p{
+            font-size: 13px;
+            color: #0844a1;
+        }
+    }
+    ion-searchbar{
+        color: rgb(0, 0, 0);
+        border-style: solid;
+        border-radius: 14px;
+        border-color: #e5e3e3;
+    }
+        
+    strong{
+        margin-left: 10px;
+        color: #144f7f;
+    }
+}

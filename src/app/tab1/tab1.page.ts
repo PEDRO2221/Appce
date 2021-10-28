@@ -10,6 +10,6 @@ export class Tab1Page{
 
   constructor(private router: Router) {}
   openTab(){
-    this.router.navigate(['tabs/tab4']);
+      this.router.navigate(['tabs/tab4']);
   }
 }

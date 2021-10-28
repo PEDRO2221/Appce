@@ -9,9 +9,11 @@ const routes: Routes = [
     component: Tab4Page
   }
 ];
-
+let router : Routes;
+let tab : number;
 @NgModule({
   imports: [RouterModule.forChild(routes)],
   exports: [RouterModule],
 })
 export class Tab4PageRoutingModule {}
+
